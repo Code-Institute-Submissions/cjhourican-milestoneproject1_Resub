@@ -5,9 +5,46 @@ Centered page
 
 Software/ fintech demo
 
-Picture of a city
+Picture of a city ,img src (img styling?)
 
 Simple tag line
+
+To do:
+    -Figure out how to center Nav
+    -figure out how to center Picture (uploaded three images to Wireframes)
+    -what do I need next level up after boilerplate? (css stuff)
+        -Border-color
+        -background color
+        -links
+        -relative size
+        -font size
+
+        Review Haley Shafer Excced expectations File and Copied bootstrap and css librairies link from code
+
+        Went on slack to find out how to upload same files to library (03/02/20)
+        
+    Reviewed "love Running Project" 12/01/19 to assist with the above in terms of structure using my own content
+    Reviewed Nav code in order to build my own
+    Established nav across all three Pages
+    Established footer
+
+    Added Wireframes folder (added picture from....)
+    Difficulty getting them to display
+
+    next find photo graphs link
+    Add striking background folder
+    Identify how to write text over image and add distinguished sections (float?)
+    testimonials re products
+    footer text
+    Contact info
+
+    Build form
+
+
+
+    
+
+
 
 
 
@@ -27,7 +64,7 @@ This section is also where you would share links to any wireframes, mockups, dia
 
 [These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.]
 
-Features
+Features (I might exclude this page as I'm not sure I need it given that most of this info will be on the landing page (finspec.html))
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 
@@ -91,4 +128,5 @@ Media
 The photos used in this site were obtained from ...
 Acknowledgements
 
-I received inspiration for this project from X
+I received inspiration for this project from Teamwork.com Apple.com
+
