@@ -1,42 +1,40 @@
 body {
-    font-family: helvetica, sans-serif;
+  font-family: sans-serif;
+  line-height: 1;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  background-color: blueviolet;
 }
 
-.main-container {
-   width: 75%;
-   margin: 0 auto;
-   height: 700px;
-}
+h2 {
+    font-family: 'Oswald';
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    color: #555555;
 
-#nav ul {
-    display: inline-block;
-    list-style-type: none;
-}
-#logo,
-#navigate{
-    line-height: 75px;
-}
-
-body {
-  background-image: 
-  background-repeat: no-repeat;
-}
 nav li {
-    float:center;
-    margin-right: 50px;
+    float: right;
+    margin-right: 30px;
 }
 
 nav a {
-    text-decoration: 
+    text-decoration: none;
     color: inherit;
 }
 
 nav a:hover {
-    border-bottom: 2px solid #000000;
+    border-bottom: 1px solid #777777;
+    
 }
 
-#hero-image {
-    height: 600px;
-    width: 100%;
-    background: url(../img/main-image.png) no-repeat center center;
+logo
+ {
+    line-height: 75px;
+}
+
+.hero-image {
+    height: 200px;
+    width: 50%;
+    background: img src="wireframes/dawn.jpg";
+    no-repeat center center;
     }
