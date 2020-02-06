@@ -9,12 +9,12 @@ body {
 h2 {
     font-family: 'Oswald';
     text-transform: uppercase;
-    letter-spacing: 8px;
+    letter-spacing: 1px;
     color: #555555;
 
 nav li {
-    float: right;
-    margin-right: 30px;
+    float: center;
+    margin-right: none;
 }
 
 nav a {
