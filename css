@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  line-height: 1;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  background-image: url('wireframes/dawn.jpg');
+}
+
+h2 {
+  background-color: green;
+}
+
+p {
+  background-color: yellow;
+}
+
+h2 {
+    font-family: 'Oswald';
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #555555;
+}
+    }
+
+#mainbox{
+ background-image: url('wireframes/dawn.jpg')
+}
