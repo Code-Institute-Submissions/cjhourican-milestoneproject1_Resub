@@ -6,11 +6,11 @@ body {
 }
 
 h2 {
-  background-color: green;
+  background-color: grey;
 }
 
 p {
-  background-color: yellow;
+  background-color: none;
 }
 
 h2 {
