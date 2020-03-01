@@ -5,8 +5,9 @@ body {
   background-image: url('wireframes/dawn.jpg');
 }
 
-h2 {
-  background-color: grey;
+h1 {
+    font-family: 
+  
 }
 
 p {
@@ -18,6 +19,7 @@ h2 {
     text-transform: uppercase;
     letter-spacing: 1px;
     color: #8fa2a8;
+    background-color: grey;
 }
 
 ul li {
