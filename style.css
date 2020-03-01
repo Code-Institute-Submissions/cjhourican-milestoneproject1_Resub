@@ -16,9 +16,10 @@ p {
 h2 {
     font-family: 'Oswald';
     text-transform: uppercase;
+    text-align: center;
     letter-spacing: 1px;
     color: #8fa2a8;
-    background-color: grey;
+    background-color: transparent;
 }
 
 ul li {
@@ -37,6 +38,8 @@ ul li {
 .form-control {
     background-color: grey;
     width: 75%;
+    text-align: center;
+    float: center;
 }
 
 row {
