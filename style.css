@@ -17,10 +17,39 @@ h2 {
     font-family: 'Oswald';
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: #555555;
+    color: #8fa2a8;
 }
-    }
 
-#mainbox{
- background-image: url('wireframes/dawn.jpg')
+ul li {
+    margin: 10px;
+}
+
+.col {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin: 20px 10px 10px 10px;
+    text-align: left;
+    color: #8fa2a8;
+    width: 50%;
+}
+
+row {
+    -ms-grid-column-align: left;
+}
+footer{
+    height: 80px;
+}
+.social-links {
+    text-align: center;
+}
+
+.social-links li {
+    display: inline;
+}
+
+.social-links i {
+    font-size: 120%;
+    margin: 2%;
+    padding: 6%;
+    color: #777777;
 }
