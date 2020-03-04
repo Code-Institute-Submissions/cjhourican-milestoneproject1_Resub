@@ -26,9 +26,15 @@ ul li {
     margin: 10px;
 }
 
-#hero-image {
-    height: 10px;
-    width: 20%;
+.container {
+    width: 200px;
+    height: 120px;
+}
+    .container img {
+    width: 100%;
+    height: auto;
+}
+
 }
 
 .col {
