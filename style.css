@@ -39,6 +39,16 @@ ul li {
     background-color: grey;
     width: 75%;
     text-align: center;
+}
+
+.exampleFormControlInput1 {
+
+    text-align: center;
+}
+
+.form-group {
+
+    margin-left: 10%;
     float: center;
 }
 
