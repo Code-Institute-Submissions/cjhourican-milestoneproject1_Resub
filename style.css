@@ -26,6 +26,11 @@ ul li {
     margin: 10px;
 }
 
+#hero-image {
+    height: 10px;
+    width: 20%;
+}
+
 .col {
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -41,6 +46,10 @@ ul li {
     text-align: center;
 }
 
+#exampleFormControlSelect1 {
+
+    text-align: center
+}
 .exampleFormControlInput1 {
 
     text-align: center;
@@ -48,7 +57,6 @@ ul li {
 
 .form-group {
 
-    margin-left: 10%;
     float: center;
 }
 
