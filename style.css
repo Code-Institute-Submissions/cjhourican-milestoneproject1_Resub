@@ -1,17 +1,16 @@
 body {
   font-family: sans-serif;
-  line-height: 1;
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   background-image: url('wireframes/dawn.jpg');
+  color: #100421;
 }
 
 h1 {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Comic Sans';
 }
 
 p {
-  background-color: none;
-  color:rgba(34, 40, 41, 0.952);
+  background-color: #5963e9;
+  color:rgba(83, 53, 216, 0.952);
   line-height: 1.7em;
 }
 
@@ -21,25 +20,28 @@ h2 {
     text-align: center;
     letter-spacing: 1px;
     color: #8fa2a8;
-    background-color: transparent;
 }
 
-ul li {
-    margin: 10px;
+ul {
+    list-style-type: none;
 }
 
 .container {
     width: 100%;
-    height: 50%;
-    margin: 20px;
+    height: 60%;
+    margin: 10px;
+    box-sizing: content-box;
 }
 
-.col {
+.col-6 {
     width: 100%;
     height: 50%;
-    float: center;
-    margin-top: 5%;
-    margin-left: 10%;
+    margin-top: 0;
+    column-fill: fill;
+}
+
+.col-3{
+    text-align: center;
 }
 
 .form-control {
