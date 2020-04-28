@@ -4,13 +4,11 @@ body {
   color: #100421;
 }
 
-h1 {
-    font-family: 'Comic Sans';
-}
 
 p {
   background-color: #5963e9;
-  color:rgba(83, 53, 216, 0.952);
+  opacity: 70%;
+  color: rgb(255,255,255);
   line-height: 1.7em;
 }
 
@@ -20,6 +18,22 @@ h2 {
     text-align: center;
     letter-spacing: 1px;
     color: #8fa2a8;
+}
+
+.abouttext{
+    line-height: 2em;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #cccccc;
+    padding: 15px;
+}
+
+.price {
+    padding:0%;
+}
+
+.exampleFormControlInput1{
+    color: azure;
 }
 
 ul {
@@ -33,15 +47,55 @@ ul {
     box-sizing: content-box;
 }
 
+.container-form{
+    align-content: center;
+
+}
+
+.form-control {
+    margin: 0 auto;
+    background-color: cornsilk;
+    color: #100421;
+    margin-top: 10px;
+}
+
+#exampleFormControlSelect1 {
+    text-align:center
+}
+
+.textWrap {
+    width: 30%;
+    height: 60%;
+}
+
+.quote {
+    text-align: center;
+    color: #ffffff;
+    font-size: 30px;
+    padding: 30px;
+}
+
+#button {
+     width:250px; 
+     margin:0 auto;
+     display: block;
+}
+
 .col-6 {
     width: 100%;
     height: 50%;
-    margin-top: 0;
+    margin-top: 0 auto;
     column-fill: fill;
 }
 
 .col-3{
-    text-align: center;
+    text-align: left;
+    padding: 10px;
+}
+
+label{
+    border-top: 10px;
+    color:azure;
 }
 
 .form-control {
@@ -77,20 +131,13 @@ footer{
     color: #777777;
 }
 
-.col-sm {
+.row {
     display: -moz-inline-stack;
-}
-.quote {
-    text-align: center;
+    background-color: #343a40;
+    color: cornsilk;
 }
 
-.text-above{
-    text-align: center;
-}
 
 .select option{
-    text-align: center;
-}
-.btn{
     text-align: center;
 }
