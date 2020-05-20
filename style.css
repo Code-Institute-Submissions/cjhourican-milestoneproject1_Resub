@@ -79,6 +79,7 @@ ul {
      width:250px; 
      margin:0 auto;
      display: block;
+     border-top: 10px;
 }
 
 .col-6 {
